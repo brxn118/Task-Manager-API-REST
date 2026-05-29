@@ -9,6 +9,7 @@ Projet personnel : application de gestion de tâches avec une API REST.
 - Maven
 
 ## Structure du projet
+```
 taskmanager/
 ├── pom.xml
 └── src/main/java/com/example/taskmanager/
@@ -19,6 +20,7 @@ taskmanager/
     │   └── TaskRepository.java
     └── controller/
         └── TaskController.java
+```
 
 ## Endpoints disponibles
 | Méthode | URL            | Description               |
